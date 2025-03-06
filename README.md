@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarreddypatil&hide=TypeScript&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarreddypatil&hide=Jupyter%20Notebook&theme=github_dark_dimmed&layout=donut&exclude_repo=comma_calib_challenge,facerec-service,face-rec,deep-racing,self-driving,purdue-course-monitor,purdue-course-monitor-discord,irl-scheduler,dsaa-scheduler)
